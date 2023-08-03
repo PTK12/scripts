@@ -1,2 +1,2 @@
 # scripts
-Scripts that I find useful.
+Scripts that I find useful. Might rewrite into Cython for speed...
